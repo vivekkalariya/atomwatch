@@ -1,8 +1,8 @@
 # atomwatch
 watch store web template
 <!DOCTYPE html>
-<html lang="en">
-<head>
+#<html lang="en">
+#<head>
   <title>FR.com</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
